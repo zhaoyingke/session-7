@@ -28,3 +28,14 @@ Bootstrap est une librairie extrêment complète et son utilisation est tellemen
 répandue qu'elle devient presque un standard de mise en forme. N'hésitez pas à
 prendre le temps de lire sa documentation en détail pour découvrier les nombreux
 composants qu'elle vous offre.
+
+### FontAwesome
+
+Comme vous pouvez l'observer ce CV contient des icônes sur les butons email, Github et Twitter.
+Ces icônes sont obtenu grâce à la librairie [FontAwesome](http://fontawesome.io) qui
+vous permet d'insérer de nombreux icônes dans votre page sans jamais utiliser d'image.
+
+Ces icônes peuvent être redimensionner, colloré ou empilé car ils sont générés à
+l'aide d'une typographie personnalisée et définis via des classes CSS. Je vous laisse jeter un
+œil à [la documentation](http://fontawesome.io/get-started/) pour comprendre comment
+l'utiliser sur votre CV.
