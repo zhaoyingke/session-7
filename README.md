@@ -13,10 +13,10 @@ Bootstrap sans écrire aucune ligne de CSS. Voici le modèle à observer:
 
 Vous pouvez commencer par reviser un peu le cours de la semaine dernière pour
 en savoir plus sur [la grille de Bootstrap](https://github.com/edj-initiation-code/session-6#la-grille).
-Une fois que vous avez bien compris cette notion, vous pouvez comment par placer les éléments
+Une fois que vous avez bien compris cette notion, vous essayez de placer les éléments
 principaux de votre page :
 
-* l'en-tête (avec une phrases d'introduction et des buttons de contact)
+* l'en-tête (avec une phrase d'introduction et des boutons de contact)
 * les deux colonnes principales de gauche (experience, formation) et de droite (coordonées, langues, etc).
 
 Je vous recommande également de garder sous le coude [la documentation de Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
@@ -26,16 +26,16 @@ ou encore des utilitaires [de margin/padding](https://getbootstrap.com/docs/4.0/
 
 Bootstrap est une librairie extrêment complète et son utilisation est tellement
 répandue qu'elle devient presque un standard de mise en forme. N'hésitez pas à
-prendre le temps de lire sa documentation en détail pour découvrier les nombreux
+prendre le temps de lire sa documentation en détail pour découvrir les nombreux
 composants qu'elle vous offre.
 
 ### FontAwesome
 
-Comme vous pouvez l'observer ce CV contient des icônes sur les butons email, Github et Twitter.
-Ces icônes sont obtenu grâce à la librairie [FontAwesome](http://fontawesome.io) qui
-vous permet d'insérer de nombreux icônes dans votre page sans jamais utiliser d'image.
+Comme vous pouvez l'observer, ce CV contient des icônes sur les butons email, Github et Twitter.
+Ces icônes sont obtenues grâce à la librairie [FontAwesome](http://fontawesome.io) qui
+vous permet d'insérer une multitude d'icônes dans votre page sans jamais utiliser d'image.
 
-Ces icônes peuvent être redimensionner, colloré ou empilé car ils sont générés à
-l'aide d'une typographie personnalisée et définis via des classes CSS. Je vous laisse jeter un
+Ces icônes peuvent être redimensionnées, collorées ou empilées puisque elles sont générées à
+l'aide d'une typographie personnalisée et définies via des classes CSS. Je vous laisse jeter un
 œil à [la documentation](http://fontawesome.io/get-started/) pour comprendre comment
 l'utiliser sur votre CV.
